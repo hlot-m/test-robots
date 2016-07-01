@@ -1,0 +1,23 @@
+table, td, th {
+	border: 1px solid black;
+	margin:1em;
+	padding-bottom:2px;
+	padding:5px;
+}
+#title{
+	background-color: #A2C4C9;
+}
+#wrong{
+	background-color: #E06666;
+	text-align: center;
+}
+#right{
+	background-color: #93C47D;
+	text-align: center;
+}
+label, input {
+	display: block;
+}
+label {
+	margin-bottom: 10px;
+}
